@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    margin-top: 6%;
+}
+
+span{
+    font-size: 60pt;
+}
+
+.btns{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-top: 3%;
+    width: 50%;
+}
+
